@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Tiropenal.Jugador" Collapsed="False">
+    <Position X="2.9" Y="0.5" Width="1.397067" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Tiropenal.Pateador" Collapsed="False">
+    <Position X="0.5" Y="1.7" Width="1.497829" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Tiropenal.Program" Collapsed="False">
+    <Position X="7.4" Y="2.8" Width="1.033014" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Tiropenal.Arbitro" Collapsed="False">
+    <Position X="7.1" Y="0.5" Width="1.246891" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Tiropenal.Arquero" Collapsed="False">
+    <Position X="5.3" Y="1.6" Width="1.384284" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

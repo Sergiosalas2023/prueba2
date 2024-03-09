@@ -1,0 +1,19 @@
+C:\Users\Personal\Documents\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\SharpDevelop Projects\Tiropenal\Tiropenal\bin\Debug\Tiropenal.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Tiropenal\Tiropenal\bin\Debug\Tiropenal.pdb
+C:\Users\Personal\Documents\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.pdb
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\bin\Debug\Tiropenal.exe.config
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\bin\Debug\Tiropenal.exe
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\bin\Debug\Tiropenal.pdb
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.csproj.AssemblyReference.cache
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.csproj.CoreCompileInputs.cache
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.exe
+D:\Archivos y Programas\Informacion Personal\SharpDevelop Projects\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.pdb
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\bin\Debug\Tiropenal.exe.config
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\bin\Debug\Tiropenal.exe
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\bin\Debug\Tiropenal.pdb
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.csproj.AssemblyReference.cache
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.csproj.CoreCompileInputs.cache
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.exe
+C:\Users\57300\Desktop\CentroCDM\POO\POOC#\Tiropenal\Tiropenal\obj\x86\Debug\Tiropenal.pdb
